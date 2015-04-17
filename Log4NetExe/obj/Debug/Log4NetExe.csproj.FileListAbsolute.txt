@@ -1,0 +1,6 @@
+E:\Projects\Log4NetExe\Log4NetExe\bin\Debug\Log4NetExe.exe.config
+E:\Projects\Log4NetExe\Log4NetExe\bin\Debug\Log4NetExe.exe
+E:\Projects\Log4NetExe\Log4NetExe\bin\Debug\Log4NetExe.pdb
+E:\Projects\Log4NetExe\Log4NetExe\bin\Debug\log4net.dll
+E:\Projects\Log4NetExe\Log4NetExe\obj\Debug\Log4NetExe.exe
+E:\Projects\Log4NetExe\Log4NetExe\obj\Debug\Log4NetExe.pdb
